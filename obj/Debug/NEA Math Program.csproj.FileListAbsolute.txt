@@ -1,0 +1,31 @@
+C:\Users\yessi\Downloads\NEA-Math-Program-master\NEA-Math-Program-master\NEA Math Program\bin\Debug\Database1.mdf
+C:\Users\yessi\Downloads\NEA-Math-Program-master\NEA-Math-Program-master\NEA Math Program\bin\Debug\Database1_log.ldf
+C:\Users\yessi\Downloads\NEA-Math-Program-master\NEA-Math-Program-master\NEA Math Program\bin\Debug\NEA Math Program.exe
+C:\Users\yessi\Downloads\NEA-Math-Program-master\NEA-Math-Program-master\NEA Math Program\obj\Debug\NEA Math Program.csproj.AssemblyReference.cache
+C:\Users\yessi\Downloads\NEA-Math-Program-master\NEA-Math-Program-master\NEA Math Program\obj\Debug\NEA_Math_Program.Form1.resources
+C:\Users\yessi\Downloads\NEA-Math-Program-master\NEA-Math-Program-master\NEA Math Program\obj\Debug\NEA_Math_Program.LogInForm.resources
+C:\Users\yessi\Downloads\NEA-Math-Program-master\NEA-Math-Program-master\NEA Math Program\obj\Debug\NEA_Math_Program.Properties.Resources.resources
+C:\Users\yessi\Downloads\NEA-Math-Program-master\NEA-Math-Program-master\NEA Math Program\obj\Debug\NEA_Math_Program.Student_Main_Menu.resources
+C:\Users\yessi\Downloads\NEA-Math-Program-master\NEA-Math-Program-master\NEA Math Program\obj\Debug\NEA Math Program.csproj.GenerateResource.cache
+C:\Users\yessi\Downloads\NEA-Math-Program-master\NEA-Math-Program-master\NEA Math Program\obj\Debug\NEA Math Program.csproj.CoreCompileInputs.cache
+C:\Users\yessi\Downloads\NEA-Math-Program-master\NEA-Math-Program-master\NEA Math Program\obj\Debug\NEA Math Program.exe
+C:\Users\yessi\Downloads\NEA-Math-Program-master\NEA-Math-Program-master\NEA Math Program\obj\Debug\NEA Math Program.pdb
+C:\Users\yessi\Downloads\NEA-Math-Program-master\NEA-Math-Program-master\NEA Math Program\bin\Debug\NEA Math Program.exe.config
+C:\Users\yessi\Downloads\NEA-Math-Program-master\NEA-Math-Program-master\NEA Math Program\bin\Debug\NEA Math Program.pdb
+C:\Users\yessi\Downloads\NEA-Math-Program-master\NEA-Math-Program-master\NEA Math Program\obj\Debug\NEA_Math_Program.Teacher_Main_Menu.resources
+C:\Users\yessi\Downloads\NEA-Math-Program-master\NEA-Math-Program-master\NEA Math Program\obj\Debug\NEA_Math_Program.Class_Managment_Menu.resources
+C:\Users\yessi\Downloads\NEA-Math-Program-master\NEA-Math-Program-master\NEA Math Program\obj\Debug\NEA_Math_Program.Create_Class_Menu.resources
+C:\Users\yessi\Downloads\NEA-Math-Program-master\NEA-Math-Program-master\NEA Math Program\obj\Debug\NEA Math Program.exe.config
+C:\Users\yessi\Downloads\NEA-Math-Program-master\NEA-Math-Program-master\NEA Math Program\obj\Debug\NEA_Math_Program.Assign_Homework_Menu.resources
+C:\Users\yessi\Downloads\NEA-Math-Program-master\NEA-Math-Program-master\NEA Math Program\obj\Debug\NEA_Math_Program.Questions_For_Homework_Menu.resources
+C:\Users\yessi\Downloads\NEA-Math-Program-master\NEA-Math-Program-master\NEA Math Program\obj\Debug\NEA_Math_Program.Create_Assignments_Menu.resources
+C:\Users\yessi\Downloads\NEA-Math-Program-master\NEA-Math-Program-master\NEA Math Program\obj\Debug\NEA_Math_Program.Answer_Question.resources
+C:\Users\yessi\Downloads\NEA-Math-Program-master\NEA-Math-Program-master\NEA Math Program\obj\Debug\NEA_Math_Program.Homework_Assignment_Menu.resources
+C:\Users\yessi\Downloads\NEA-Math-Program-master\NEA-Math-Program-master\NEA Math Program\obj\Debug\NEA_Math_Program.Statistics_Menu.resources
+C:\Users\yessi\Downloads\NEA-Math-Program-master\NEA-Math-Program-master\NEA Math Program\obj\Debug\NEA_Math_Program.View_Past_Assignment_Menu.resources
+C:\Users\yessi\Downloads\NEA-Math-Program-master\NEA-Math-Program-master\NEA Math Program\obj\Debug\NEA_Math_Program.Progress_Review_Menu.resources
+C:\Users\yessi\Downloads\NEA-Math-Program-master\NEA-Math-Program-master\NEA Math Program\obj\Debug\NEA_Math_Program.Student_Assignments_Menu.resources
+C:\Users\yessi\Downloads\NEA-Math-Program-master\NEA-Math-Program-master\NEA Math Program\obj\Debug\NEA_Math_Program.Student_Question_Results.resources
+C:\Users\yessi\Downloads\NEA-Math-Program-master\NEA-Math-Program-master\NEA Math Program\obj\Debug\NEA_Math_Program.Practice_Menu.resources
+C:\Users\yessi\Downloads\NEA-Math-Program-master\NEA-Math-Program-master\NEA Math Program\obj\Debug\NEA_Math_Program.Create_Account_Form.resources
+C:\Users\yessi\Downloads\NEA-Math-Program-master\NEA-Math-Program-master\NEA Math Program\obj\Debug\NEA_Math_Program.Create_Question_Form.resources
